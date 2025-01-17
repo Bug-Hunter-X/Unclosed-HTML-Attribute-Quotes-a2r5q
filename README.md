@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error involving unclosed or missing quote marks in attributes. The `bug.html` file showcases the erroneous code, while `bugSolution.html` provides the corrected version.  This issue often manifests as rendering problems or unexpected JavaScript behavior.  Ensure all attribute values are correctly enclosed within matching quotation marks.
